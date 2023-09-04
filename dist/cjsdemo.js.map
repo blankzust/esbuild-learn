@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/cjsdemo.js"],
+  "sourcesContent": ["function stylelintPlugin() {\n  console.log(',,,')\n}\n\nexports.default = stylelintPlugin;\n\n// module.exports = stylelintPlugin;"],
+  "mappings": ";;;;;;AAAA;AAAA;AAAA,aAAS,kBAAkB;AACzB,cAAQ,IAAI,KAAK;AAAA,IACnB;AAEA,YAAQ,UAAU;AAAA;AAAA;",
+  "names": []
+}
